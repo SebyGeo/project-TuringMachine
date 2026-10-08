@@ -1,0 +1,5 @@
+q_start
+q_final
+q_start 0 1 R q_start
+q_start 1 0 R q_start
+q_start _ _ R q_final
